@@ -1,0 +1,24 @@
+start:19.799
+8
+8
+8
+8
+8
+end: 56.715
+
+weird stuff @1:00 about 2*8
+
+start:71.456
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+end:145.682
+
+weird stuff(about 2*8)
