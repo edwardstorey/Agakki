@@ -1,12 +1,13 @@
 import re
+import csv
 
 beatList = []
 mapList = []
-with open("YMCA-Beats.txt",'r') as f:
+with open("../YMCABeats.txt",'r') as f:
     beatList = f.readlines()
-with open("YMCA_Beatmap_final.txt",'r') as f:
+with open("YMCA-Beatmap-final.csv",'r') as f:
     mapList = f.readlines()
-with open("YMCA-Beatmap.txt",'w') as f:
+with open("YMCA-Beatmap.csv",'w') as f:
     f.write(mapList[0])
     for s in mapList[1:]:
         beatNumber = float(re.search(r'(.+?),',s).group(1))
