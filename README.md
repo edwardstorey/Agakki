@@ -17,3 +17,11 @@ When you finish coding something, it doesn't seem to be very often that it comes
 ## Whats next
 There are a lot of things we are looking to add.
 - User friendly level editor
+- A scoring system.
+- blocks disappear when you clear them
+- sliding note types that require you to move from one region to another
+- a lot more songs
+- a menu in the actual program
+- a mascot character
+- Get all of Stephs brilliant designs and ideas into the actual program.
+- micro-transactions (or at least a patreon link)
