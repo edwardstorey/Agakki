@@ -1,52 +1,35 @@
 Intro
-8
+(Seid ihr das Essen? Nein, wir sind der Jager!)
+1-8
 
 Intro 2
-8
-8
-8
-8
+(Choir singing)
+9-40
 
 Transition
-4
+(Electric keyboard)
+41-44
 
 Verse 1
-8
-8
-8
-8
-
-8
-8
-8
-8
+(踏まれた花の 名前も知らずに)
+45-76
+(祈ったところで 何も変わらない)
+78-108
 
 Bridge
-8
-8
-8
-8
+(屍踏み越えて 進む意志を 嗤う豚よ)
+109-140
 
 Chorus
-8
-8
-8
-8
-
-8
-8
-8
-4
+(囚われた屈辱は 反撃の嚆矢(こうし)だ)
+141-172
+(迸る⟪殺意⟫(しょうどう)に 其の身を灼きながら)
+173-200
 
 Ending
-8
-8
-8
-8
-
-8
-8
-8
-4
-
-3
+(Choir + instruments)
+201-232
+(Repeat + new key)
+233-260
+(Final)
+261-263

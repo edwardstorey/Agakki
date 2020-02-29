@@ -5,7 +5,7 @@
 partialBeatTimecodeList = [1.017, 3.740, 14.389, 15.670, 36.931, 47.591, 67.492, 87.921]
 durationList = [8, 32, 4, 64, 32, 60, 62]
 secondsPerBeatList = []
-beatTimecodeList = []
+beatTimecodeList = [0] # dummy value in front for beat 0
 for i in range(len(durationList)):
     secondsPerBeatList.append((partialBeatTimecodeList[i + 1] - partialBeatTimecodeList[i]) / durationList[i])
     print(str(partialBeatTimecodeList[i + 1]) + ' - ' + str(partialBeatTimecodeList[i]) + '\n')
