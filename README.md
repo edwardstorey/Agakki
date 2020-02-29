@@ -24,4 +24,6 @@ There are a lot of things we are looking to add.
 - a menu in the actual program
 - a mascot character
 - Get all of Stephs brilliant designs and ideas into the actual program.
+- Blocks that are colored according to what hand they are to be gotten with
+- Translations to other languages
 - micro-transactions (or at least a patreon link)
