@@ -27,3 +27,6 @@ There are a lot of things we are looking to add.
 - Blocks that are colored according to what hand they are to be gotten with
 - Translations to other languages
 - micro-transactions (or at least a patreon link)
+
+## Credits
+Agakki was created by [Edward Storey](https://github.com/edwardstorey), [Jackson Kjar](https://github.com/jacksonkjar), [Garcia (Hung-Wei) Lu](https://github.com/gargargargar), and Stephanie Luo.
