@@ -16,17 +16,17 @@ We used the Vive VR headset and the Unity game engine to make our game. The APIs
 When you finish coding something, it doesn't seem to be very often that it comes out the way you had initially intended it to. Some ideas are unfeasable due to time restraints. Some ideas sound great in theory, but in actuality introduce more problems than they are worth. We spent a long time trying to balance the advantages and disadvantages of different interfaces and control mechanisms for our game. Over the course of the project, we were all exposed to things we didn't know. We struggled to get familiar with different conventions and languages. We struggled to find dumb typos that broke all of our code in the dozens of files we had written. We struggled to mathematically integrate Unity's time management with the beat of the songs. But in the end, we were able to work through these problems through a combination of teamwork, hard work, and untapped potential. They became our accomplishments. And computer science is great in the sense that the longer you spend struggling through something, the less painful it becomes. We are all far more familiar with unity and C# and VR and YMCA than before and this growth is something to be proud of.
 ## Whats next
 There are a lot of things we are looking to add.
-- User friendly level editor
+- User-friendly level editor
 - A scoring system.
-- blocks disappear when you clear them
-- sliding note types that require you to move from one region to another
-- a lot more songs
-- a menu in the actual program
-- a mascot character
+- Blocks disappear when you clear them
+- Sliding note types that require you to move from one region to another
+- A lot more songs
+- A menu in the actual program
+- A mascot character
 - Get all of Stephs brilliant designs and ideas into the actual program.
 - Blocks that are colored according to what hand they are to be gotten with
 - Translations to other languages
-- micro-transactions (or at least a patreon link)
+- Micro-transactions (or at least a Patreon link)
 
 ## Credits
 Agakki was created by [Edward Storey](https://github.com/edwardstorey), [Jackson Kjar](https://github.com/jacksonkjar), [Garcia (Hung-Wei) Lu](https://github.com/gargargargar), and Stephanie Luo.
