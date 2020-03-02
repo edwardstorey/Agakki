@@ -1,4 +1,7 @@
 # Agakki - State of the Art VR Rhythm Game
+
+[![](http://img.youtube.com/vi/j7r7iOCwpsQ/0.jpg)](https://youtu.be/j7r7iOCwpsQ)
+
 ## Inspiration
 If you take a quick look at our team name, I'm sure it won't come as much of a surprise to you that most members in our group are very into Japanese rhythm games. We saw this as a unique opportunity to connect our interest in music and skills with computer science to create a project that would be motivating, enjoyable, and rewarding. While brainstorming different ways to add some personal touches and fresh mechanics in a very well established genre of games, we realized that using VR, we would be able to implement more unique input methods to create an enjoyable experience for the user. While none of us have head direct experience with VR programming in the past, we were able to capitalize on the unique strengths of our team members and work together to learn new skills to produce what ultimately became a successful project.
 ## What it does it do?
