@@ -32,4 +32,4 @@ There are a lot of things we are looking to add.
 - Micro-transactions (or at least a Patreon link)
 
 ## Credits
-Agakki was created by [Edward Storey](https://github.com/edwardstorey), [Jackson Kjar](https://github.com/jacksonkjar), [Garcia (Hung-Wei) Lu](https://github.com/gargargargar), and Stephanie Luo.
+Agakki was created by [Edward Storey](https://github.com/edwardstorey), [Jackson Kjar](https://github.com/jacksonkjar), [Garcia (Hung-Wei) Lu](https://github.com/gargargargar), and [Stephanie Luo](https://github.com/stephanieluo18).
